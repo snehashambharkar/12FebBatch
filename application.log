@@ -1,0 +1,56 @@
+2022-05-29 17:48:01,786  INFO [main] AAA:29 - brower is opend
+2022-05-29 17:48:01,952  INFO [main] AAA:33 - maximize window
+2022-05-29 17:48:02,774  INFO [main] AAA:36 - URL open
+2022-05-29 17:48:02,808  INFO [main] AAA:39 - Implicity wait applied
+2022-05-29 17:48:03,415  INFO [main] AAA:46 - Enter the username
+2022-05-29 17:48:03,612  INFO [main] AAA:49 - enter the password
+2022-05-29 17:48:03,966  INFO [main] AAA:52 - click on loginbutton
+2022-05-29 17:48:13,102  INFO [main] AAA:60 - browser closed
+2022-05-29 17:48:15,172  INFO [main] AAA:29 - brower is opend
+2022-05-29 17:48:15,352  INFO [main] AAA:33 - maximize window
+2022-05-29 17:48:16,055  INFO [main] AAA:36 - URL open
+2022-05-29 17:48:16,070  INFO [main] AAA:39 - Implicity wait applied
+2022-05-29 17:48:16,334  INFO [main] AAA:46 - Enter the username
+2022-05-29 17:48:16,563  INFO [main] AAA:49 - enter the password
+2022-05-29 17:48:17,006  INFO [main] AAA:52 - click on loginbutton
+2022-05-29 17:48:24,581  INFO [main] AAA:60 - browser closed
+2022-05-29 17:48:27,062  INFO [main] AAA:29 - brower is opend
+2022-05-29 17:48:27,335  INFO [main] AAA:33 - maximize window
+2022-05-29 17:48:28,172  INFO [main] AAA:36 - URL open
+2022-05-29 17:48:28,188  INFO [main] AAA:39 - Implicity wait applied
+2022-05-29 17:48:28,453  INFO [main] AAA:46 - Enter the username
+2022-05-29 17:48:28,686  INFO [main] AAA:49 - enter the password
+2022-05-29 17:48:29,127  INFO [main] AAA:52 - click on loginbutton
+2022-05-29 17:48:32,971  INFO [main] AAA:60 - browser closed
+2022-05-29 17:48:34,889  INFO [main] AAA:29 - brower is opend
+2022-05-29 17:48:35,036  INFO [main] AAA:33 - maximize window
+2022-05-29 17:48:51,262  INFO [main] AAA:36 - URL open
+2022-05-29 17:48:51,286  INFO [main] AAA:39 - Implicity wait applied
+2022-05-29 17:48:51,559  INFO [main] AAA:46 - Enter the username
+2022-05-29 17:48:51,741  INFO [main] AAA:49 - enter the password
+2022-05-29 17:48:52,063  INFO [main] AAA:52 - click on loginbutton
+2022-05-29 17:48:53,036  INFO [main] AAA:60 - browser closed
+2022-05-29 17:48:55,096  INFO [main] AAA:29 - brower is opend
+2022-05-29 17:48:55,359  INFO [main] AAA:33 - maximize window
+2022-05-29 17:49:02,237  INFO [main] AAA:36 - URL open
+2022-05-29 17:49:02,245  INFO [main] AAA:39 - Implicity wait applied
+2022-05-29 17:49:02,464  INFO [main] AAA:46 - Enter the username
+2022-05-29 17:49:02,636  INFO [main] AAA:49 - enter the password
+2022-05-29 17:49:02,920  INFO [main] AAA:52 - click on loginbutton
+2022-05-29 17:50:51,415  INFO [main] AAA:60 - browser closed
+2022-05-29 17:50:53,299  INFO [main] AAA:29 - brower is opend
+2022-05-29 17:50:53,466  INFO [main] AAA:33 - maximize window
+2022-05-29 17:50:54,245  INFO [main] AAA:36 - URL open
+2022-05-29 17:50:54,245  INFO [main] AAA:39 - Implicity wait applied
+2022-05-29 17:50:54,505  INFO [main] AAA:46 - Enter the username
+2022-05-29 17:50:54,712  INFO [main] AAA:49 - enter the password
+2022-05-29 17:50:55,007  INFO [main] AAA:52 - click on loginbutton
+2022-05-29 17:51:07,418  INFO [main] AAA:60 - browser closed
+2022-05-29 17:51:09,297  INFO [main] AAA:29 - brower is opend
+2022-05-29 17:51:09,537  INFO [main] AAA:33 - maximize window
+2022-05-29 17:51:10,458  INFO [main] AAA:36 - URL open
+2022-05-29 17:51:10,466  INFO [main] AAA:39 - Implicity wait applied
+2022-05-29 17:51:10,791  INFO [main] AAA:46 - Enter the username
+2022-05-29 17:51:11,006  INFO [main] AAA:49 - enter the password
+2022-05-29 17:51:11,307  INFO [main] AAA:52 - click on loginbutton
+2022-05-29 17:51:36,009  INFO [main] AAA:60 - browser closed
